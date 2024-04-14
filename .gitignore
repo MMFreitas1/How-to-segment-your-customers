@@ -1,2 +1,6 @@
 *
 !.gitignore
+!README.md
+!Data/
+!Images/
+!How_to_segment_your_customers.ipynb
